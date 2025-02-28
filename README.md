@@ -9,7 +9,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Qadeer-bhai">
-    <img src="https://qu.ax/fxXAB.jpg" width="500">
+    <img src="https://qu.ax/lQCDY.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{Qadeer-bhai}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
