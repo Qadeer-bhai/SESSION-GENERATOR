@@ -63,14 +63,14 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN TOFAN MD』*
+║ *『AMAZING YOU'VE CHOSEN PUBG MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@tofanmods7
 ║❒ *Owner:* _https://api.whatsapp.com/send?phone=+923079749129_
-║❒ *Repo:* _https://github.com/Qadeer-bhai/TOFAN-MD_
+║❒ *Repo:* _https://github.com/Qadeer-bhai/PUBG-MD_
 ║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A_
 ║❒ *Plugins:* _https://github.com/Qadeer-bhai
@@ -78,7 +78,7 @@ ______________________________________
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_By_QADEER_KHAN.sendMessage(Qr_Code_By_Qadeer_Khan.user.id,{text:TOFAN_MD_TEXT},{quoted:session})
+	 await Qr_Code_By_QADEER_KHAN.sendMessage(Qr_Code_By_Qadeer_Khan.user.id,{text:PUBG_MD_TEXT},{quoted:session})
 
 
 
@@ -100,6 +100,6 @@ _Don't Forget To Give Star To My Repo_`
 			await removeFile("temp/" + id);
 		}
 	}
-	return await TOFAN_MD_QR_CODE()
+	return await PUBG_MD_QR_CODE()
 });
 module.exports = router
