@@ -63,14 +63,14 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN PUBG MD』*
+║ *『AMAZING YOU'VE CHOSEN TOFAN MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@tofanmods7
 ║❒ *Owner:* _https://api.whatsapp.com/send?phone=+923079749129_
-║❒ *Repo:* _https://github.com/Qadeer-bhai/PUBG-MD_
+║❒ *Repo:* _https://github.com/Qadeer-bhai/TOFAN-MD_
 ║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A_
 ║❒ *Plugins:* _https://github.com/Qadeer-bhai
