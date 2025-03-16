@@ -17,7 +17,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *PUBG-MD*
+❒ *TOFAN-MD*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
@@ -134,7 +134,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE BY ITXWASI
+    //// MADE BY QADEER
 
 });
 
